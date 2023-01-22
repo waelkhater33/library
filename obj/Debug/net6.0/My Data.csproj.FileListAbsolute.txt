@@ -1,0 +1,27 @@
+E:\iti\Web ApI\Recording\My Data\My Data\bin\Debug\net6.0\My Data.exe
+E:\iti\Web ApI\Recording\My Data\My Data\bin\Debug\net6.0\My Data.deps.json
+E:\iti\Web ApI\Recording\My Data\My Data\bin\Debug\net6.0\My Data.runtimeconfig.json
+E:\iti\Web ApI\Recording\My Data\My Data\bin\Debug\net6.0\My Data.dll
+E:\iti\Web ApI\Recording\My Data\My Data\bin\Debug\net6.0\My Data.pdb
+E:\iti\Web ApI\Recording\My Data\My Data\obj\Debug\net6.0\My Data.csproj.AssemblyReference.cache
+E:\iti\Web ApI\Recording\My Data\My Data\obj\Debug\net6.0\My Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\iti\Web ApI\Recording\My Data\My Data\obj\Debug\net6.0\My Data.AssemblyInfoInputs.cache
+E:\iti\Web ApI\Recording\My Data\My Data\obj\Debug\net6.0\My Data.AssemblyInfo.cs
+E:\iti\Web ApI\Recording\My Data\My Data\obj\Debug\net6.0\My Data.csproj.CoreCompileInputs.cache
+E:\iti\Web ApI\Recording\My Data\My Data\obj\Debug\net6.0\My Data.MvcApplicationPartsAssemblyInfo.cache
+E:\iti\Web ApI\Recording\My Data\My Data\obj\Debug\net6.0\staticwebassets\msbuild.My Data.Microsoft.AspNetCore.StaticWebAssets.props
+E:\iti\Web ApI\Recording\My Data\My Data\obj\Debug\net6.0\staticwebassets\msbuild.build.My Data.props
+E:\iti\Web ApI\Recording\My Data\My Data\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.My Data.props
+E:\iti\Web ApI\Recording\My Data\My Data\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.My Data.props
+E:\iti\Web ApI\Recording\My Data\My Data\obj\Debug\net6.0\staticwebassets.pack.json
+E:\iti\Web ApI\Recording\My Data\My Data\obj\Debug\net6.0\staticwebassets.build.json
+E:\iti\Web ApI\Recording\My Data\My Data\obj\Debug\net6.0\staticwebassets.development.json
+E:\iti\Web ApI\Recording\My Data\My Data\obj\Debug\net6.0\scopedcss\bundle\My Data.styles.css
+E:\iti\Web ApI\Recording\My Data\My Data\obj\Debug\net6.0\My Data.dll
+E:\iti\Web ApI\Recording\My Data\My Data\obj\Debug\net6.0\refint\My Data.dll
+E:\iti\Web ApI\Recording\My Data\My Data\obj\Debug\net6.0\My Data.pdb
+E:\iti\Web ApI\Recording\My Data\My Data\obj\Debug\net6.0\My Data.genruntimeconfig.cache
+E:\iti\Web ApI\Recording\My Data\My Data\obj\Debug\net6.0\ref\My Data.dll
+E:\iti\Web ApI\Recording\My Data\My Data\obj\Debug\net6.0\My Data.RazorAssemblyInfo.cache
+E:\iti\Web ApI\Recording\My Data\My Data\obj\Debug\net6.0\My Data.RazorAssemblyInfo.cs
+E:\iti\Web ApI\Recording\My Data\My Data\bin\Debug\net6.0\My Data.staticwebassets.runtime.json

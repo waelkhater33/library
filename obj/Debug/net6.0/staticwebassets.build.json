@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "VTIlyjvejO+jCyehu8xmfMKlnwEiY5Pvj1wRRu9jykg=",
+  "Source": "My Data",
+  "BasePath": "_content/My Data",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "My Data\\wwwroot",
+      "Source": "My Data",
+      "ContentRoot": "E:\\iti\\Web ApI\\Recording\\My Data\\My Data\\wwwroot\\",
+      "BasePath": "_content/My Data",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\iti\\Web ApI\\Recording\\My Data\\My Data\\wwwroot\\css\\regStyle.css",
+      "SourceId": "My Data",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\iti\\Web ApI\\Recording\\My Data\\My Data\\wwwroot\\",
+      "BasePath": "_content/My Data",
+      "RelativePath": "css/regStyle.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\regStyle.css"
+    }
+  ]
+}
